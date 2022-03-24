@@ -25,6 +25,8 @@ Marie de Little Bun Bao publie :
   - https://play.google.com/store/apps/details?id=com.littlebunbao.lbbquiz&hl=fr&gl=US
   - https://apps.apple.com/fr/app/littlebunbao-signe/id1507768546
 
+Orienté LSF pour les enfants.
+
 ## Compte professionnel de formation
 
 Le CPF peut-être utiliser pour prendre des cours de LSF :
