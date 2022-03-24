@@ -25,6 +25,12 @@ Marie de Little Bun Bao publie :
   - https://play.google.com/store/apps/details?id=com.littlebunbao.lbbquiz&hl=fr&gl=US
   - https://apps.apple.com/fr/app/littlebunbao-signe/id1507768546
 
+## Compte professionnel de formation
+
+Le CPF peut-être utiliser pour prendre des cours de LSF :
+
+[Formation LSF sur CPF](https://www.moncompteformation.gouv.fr/espace-prive/html/#/formation/recherche/results?q=%7B%22ou%22:%7B%22modality%22:%22A_DISTANCE%22,%22type%22:%22CP%22,%22ville%22:null%7D,%22sort%22:%22SCORE%22,%22debutPagination%22:1,%22nombreOccurences%22:6,%22quoi%22:%22LSF%22,%22quoiReferentiel%22:null,%22contexteFormation%22:%22ACTIVITE_PROFESSIONNELLE%22,%22durationHours%22:null,%22endDate%22:null,%22evaluation%22:null,%22niveauSortie%22:null,%22nomOrganisme%22:null,%22prix%22:null,%22rythme%22:null,%22startDate%22:null,%22conformiteReglementaire%22:null%7D)
+
 ## Youtube divers
 
 https://www.youtube.com/c/M%C3%A9lanieDeafLSF
@@ -38,8 +44,6 @@ https://www.bonjour-world.com/nos-langues/langue-des-signes/
 
 Cours individuel par Skype, formule à 40h avec examen final certifiant.
 
-## Compte professionnel de formation
+Disponible sur le [CPF](https://www.moncompteformation.gouv.fr/espace-prive/html/#/formation/recherche/results?q=%7B%22ou%22:%7B%22modality%22:%22A_DISTANCE%22,%22type%22:%22CP%22,%22ville%22:null%7D,%22sort%22:%22SCORE%22,%22debutPagination%22:1,%22nombreOccurences%22:6,%22quoi%22:%22LSF%22,%22quoiReferentiel%22:null,%22contexteFormation%22:%22ACTIVITE_PROFESSIONNELLE%22,%22durationHours%22:null,%22endDate%22:null,%22evaluation%22:null,%22niveauSortie%22:null,%22nomOrganisme%22:%22BONJOUR%20WORLD%22,%22prix%22:null,%22rythme%22:null,%22startDate%22:null,%22conformiteReglementaire%22:null%7D)
 
-Le CPF peut-être utiliser pour prendre des cours de LSF :
 
-https://www.mon-compte-formation.fr/cpf/recherche?Query=LSF&Lieu=&TypeSearch=1
