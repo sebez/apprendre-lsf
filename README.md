@@ -1,6 +1,6 @@
 # Apprendre la LSF
 
-Resources pour apprendre la langue des signes française.
+Ressources pour apprendre la langue des signes française.
 
 ## Elix [Gratuit]
 
