@@ -35,8 +35,9 @@ Le CPF peut-être utiliser pour prendre des cours de LSF :
 
 ## Youtube divers
 
-https://www.youtube.com/c/M%C3%A9lanieDeafLSF
-https://www.youtube.com/c/MAELanguedesSignes
+- [MélanieDeaf](https://www.youtube.com/c/M%C3%A9lanieDeafLSF)
+- [MAE Langue des signes](https://www.youtube.com/c/MAELanguedesSignes)
+- [Jack Burton](https://www.youtube.com/user/AZ90ZA090909AZ)
 
 ## Bonjour World
 
